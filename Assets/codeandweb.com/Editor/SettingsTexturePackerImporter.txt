@@ -1,0 +1,26 @@
+version: 2
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Sprites/border-rect/border-rect.tpsheet
+- Assets/Sprites/border-rect/dot-border.tpsheet
+- Assets/Sprites/flowers/flowers.tpsheet
+- Assets/Sprites/icon/icon.tpsheet
+- Assets/Sprites/others/others_icon.tpsheet
+- Assets/Sprites/star/star.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Sprites/border-rect/border-rect.png
+- Assets/Sprites/border-rect/dot-border.png
+- Assets/Sprites/flowers/flowers.png
+- Assets/Sprites/icon/icon.png
+- Assets/Sprites/others/others_icon.png
+- Assets/Sprites/star/star.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <uie:Toolbar name="MapToolbar" />
+    <ui:TextField picking-mode="Ignore" label="Name" value="LevelData_1" name="MapName" binding-path="name" />
+    <ui:IntegerField label="Play Time" value="300" name="MapTime" binding-path="time" />
+    <ui:Toggle label="Show Sprite Pool" name="ShowSpriteToggle" />
+    <uie:PropertyField binding-path="tileDatas" />
+</ui:UXML>

@@ -1,0 +1,16 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:fd247c94fba8b0705fad15978c9828a3:6d02e91601c6034d5845b16a5e65b9d9:b4ac43d9655dad1f1e6846f66e6b8053$
+#
+:format=40300
+:texture=star.png
+:size=512x512
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+star;1;230;291;281; 0.49828178694158076;0.49110320284697506; 0;0;0;0; 11;190;192;291;173;232;113;224;77;235;1;140;44;53;0;68;102;0;172;100;194;144;281; 9;7;8;9;5;3;4;7;9;0;5;6;7;2;3;5;0;2;5;0;1;2;0;9;10;7;0;5
